@@ -2,6 +2,7 @@
 1111
 
 
+<<<<<<< HEAD
 
 222222-修复bug
 
@@ -20,6 +21,9 @@ add from login-222222
 <<<<<<< HEAD
 
 1000-add
-=======
+
 100
->>>>>>> b11b2469c189e53bf1b6adb418e5cdbfb74d4221
+
+
+add from login-222222
+add3333
